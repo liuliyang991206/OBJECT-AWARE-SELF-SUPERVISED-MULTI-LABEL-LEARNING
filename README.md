@@ -1,1 +1,1 @@
-# OBJECT-AWARE-SELF-SUPERVISED-MULTI-LABEL-LEARNING
+# Object-Aware-Self-Supervised-Multi-Label-Learning
